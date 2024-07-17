@@ -15,7 +15,9 @@ load_dotenv('.env')
 # List of PDF URLs
 pdf_links = [
     "https://www2.deloitte.com/content/dam/Deloitte/in/Documents/consumer-business/immersion/Deloitte-Chaper-india-Food-Report.pdf",
-    "https://web-assets.bcg.com/img-src/BCG-Ten-Trends-That-Are-Altering-Consumer-Behavior-in-India-Oct-2019_tcm9-231429.pdf"
+    "https://web-assets.bcg.com/img-src/BCG-Ten-Trends-That-Are-Altering-Consumer-Behavior-in-India-Oct-2019_tcm9-231429.pdf",
+    "https://jespublication.com/upload/2019-V10-I9-63.pdf",
+    "https://bsssbhopal.edu.in/uploads/naac/criteria_1/students_projects/273%20Simranjeet%20Kaur.pdf"
 ]
 
 # Initialize variables to store all documents
